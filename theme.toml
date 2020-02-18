@@ -1,0 +1,12 @@
+name = "cr4pw"
+license = "MIT"
+licenselink = "https://github.com/Thor77/hugo-cr4pw/blob/master/LICENSE"
+description = ""
+homepage = "https://github.com/Thor77/hugo-cr4pw"
+tags = []
+features = []
+min_version = "0.41"
+
+[author]
+  name = "Thor77"
+  homepage = "https://thor77.org"

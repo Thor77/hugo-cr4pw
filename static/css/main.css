@@ -1,0 +1,31 @@
+body {
+    font-family: Liberation Sans, Arial, sans-serif;
+    background-color: #fdf6e3;
+    color: #839496;
+    line-height: 1.5;
+}
+main {
+    max-width: 70ch;
+    padding: 2ch;
+    margin: auto;
+}
+footer {
+    max-width: 70ch;
+    margin: auto;
+    background-color: #eee8d5;
+    text-align: center;
+}
+header {
+  margin-bottom: 1.5rem;
+}
+h1 {
+  margin-bottom: .5rem;
+}
+a {
+  color: #dc322f;
+  text-decoration: none;
+  outline: 0;
+}
+a:hover {
+  text-decoration: underline;
+}
